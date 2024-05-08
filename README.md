@@ -1,6 +1,4 @@
-Adafruit_HUSB238 [![Build Status](https://github.com/adafruit/Adafruit_HUSB238/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit_HUSB238/actions)
-
-================
+# Adafruit_HUSB238 [![Build Status](https://github.com/adafruit/Adafruit_HUSB238/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit_HUSB238/actions)
 
 <a href="https://www.adafruit.com/product/5807"><img src="https://cdn-shop.adafruit.com/970x728/5807-04.jpg" width="500px"></a>
 
